@@ -1,0 +1,96 @@
+.back-img {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png');
+    background-size: cover;
+    height: 35vh;
+    padding: 15px;
+
+}
+
+.m-h {
+    color: white;
+    font-weight: normal;
+    font-size: 30px;
+    margin: 2px;
+}
+
+.img-h {
+    height: 120px;
+    width: 150px;
+    margin: 15px;
+}
+
+.s-h {
+    color: #151765;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 43px;
+    margin: 1px;
+}
+
+
+
+.s-p {
+    color: #5a7184;
+    font-family: Roboto;
+    font-size: 15px;
+    margin-left: 45px;
+}
+
+.b-c {
+    background-color: #151765;
+    height: 30vh;
+    padding: 10px;
+}
+
+.p-h {
+    color: white;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+.p-p {
+    color: white;
+    font-family: Roboto;
+    font-size: 15px;
+    margin-top: 10px;
+    font-weight: normal;
+
+}
+
+.st-h {
+    color: #151765;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin: 1px;
+}
+
+.st-p {
+    color: #5a7184;
+    font-size: 13px;
+}
+
+.st-t {
+    color: #151765;
+    font-size: 7px;
+    font-weight: bold;
+
+}
+
+.all {
+    text-align: right;
+}
+
+.buu {
+    background-color: #151765;
+    color: white;
+    border-width: 0px;
+    border-radius: 15px;
+    width: 100px;
+    padding: 3px;
+    margin: 2px;
+
+}
